@@ -1,0 +1,8 @@
+1.Q: All codes are defined in different functions
+  Aim: line 53-300
+  class diagram: Since there is no class definition, there is no
+                 class diagram.
+2.This program has a complete test case test.js
+3.adapher design pattern, This design constructs two classes,
+  one is the basic class of the syntax tree, and the other is 
+  a subclass of parsing js. Before.png, after.png
